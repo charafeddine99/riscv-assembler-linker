@@ -37,7 +37,7 @@ A two-pass assembler and a linking loader for a subset of the **RISC-V RV32I** i
 
 ## Getting started
 
-Requirements: Python 3.10+ (Tkinter is included with the standard installer). For simulation you also need Icarus Verilog and GTKWave, or the Gowin IDE for the FPGA.
+Requirements: Python 3.10+ (Tkinter is included with the standard installer). For simulation you also need a Verilog simulator and GTKWave; for the board you need the Gowin IDE.
 
 ```bash
 git clone https://github.com/charafeddine99/riscv-assembler-linker.git
